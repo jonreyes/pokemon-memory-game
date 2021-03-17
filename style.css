@@ -1,0 +1,157 @@
+/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+html{
+  font-family: 'Press Start 2P', cursive;
+}
+
+.center {
+  
+}
+
+body {
+  font-size: 0.75em;
+  margin: 2em;
+  background-image: url("data:image/jpeg;base64,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");
+  background-size: cover;
+  color: white; 
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+p{
+  color: black;
+  margin: 2em;
+}
+
+button{
+  font-family: 'Press Start 2P', cursive;
+  padding: 10px;
+  border-radius: 10em;
+}
+
+.hidden {
+  display: none;
+}
+
+#startBtn{
+  background: lightgreen;  
+}
+
+#stopBtn{
+  background: pink;
+}
+
+#music:hover{
+  filter: invert(1);
+}
+
+#gameButtonArea > button {
+  background-image: url('"https://lh3.googleusercontent.com/proxy/R_DLNrJSGNYQCwZO6OzGKnoyKLEt3gNe-07tK5tYMoixk7RLnqGTChvQZjbFzzbFgVV9x3yC9loOakyhJWiHprrk3zA52oSb_PCZypYNAX9W1-DhbsBN');
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  margin:2px;
+}
+
+#button1 {
+    background: lightgreen;
+} 
+
+#button1:active, #button1.lit, #button1:hover {
+    background:green;
+}
+
+#button2 {
+    background: lightblue;
+}
+
+#button2:active, #button2.lit, #button2:hover{
+    background:blue;
+}
+
+#button3 {
+    background: pink;
+}
+
+#button3:active, #button3.lit, #button3:hover{
+    background:red;
+}
+
+#button4 {
+    background: lightyellow;
+}
+
+#button4:active, #button4.lit, #button4:hover {
+    background:yellow;
+}
+
+#button5 {
+    background: lightgray;
+}
+
+#button5:active, #button5.lit, #button5:hover {
+    background:black;
+    background-image: url('')
+}
+
+.fade-in {
+animation: fadeIn ease 3s;
+-webkit-animation: fadeIn ease 3s;
+-moz-animation: fadeIn ease 3s;
+-o-animation: fadeIn ease 3s;
+-ms-animation: fadeIn ease 3s;
+}
+
+@keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+#gameButtonArea> button:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
