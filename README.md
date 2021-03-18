@@ -11,6 +11,7 @@ Time spent:
 **20** hours spent in total
 
 Link to project: (https://codepath-workday-jr.glitch.me/)
+Link to project: (https://jonreyes.github.io/pokemon-memory-game)
 
 ## Required Functionality
 
@@ -47,22 +48,28 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Not added. Just view and test over project link.
 ![](your-link-here)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 StackOverflow, Mozilla Developer Docs, W3Schools, and other resources through Google were all referenced. 
 IP credited from the official games and anime by The Pokémon Company as assets found across the web especially the Pokémon Fandom Wiki.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 Customizing the additional optional features to make the game more interesting with the Pokémon theme was more challenging.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-For web development I do not have specific questions, but I have become more curious about animations and web design tools like Figma when working with UI/UX.
+
+For web development I do not have specific questions, but I have become more curious about css/js animations as well as web design tools like Figma when working with UI/UX.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If this was a longer term project I would use better version control over git and use a front end library such as React.js and Redux.js if state management becomes too complex.
+
+If this was a longer term project I would use better local version control over git and use a front end library such as React.js and Redux.js if state management becomes too complex.
+The code was also focused on quick "hackathon-like" implementation rather than clean design and planning, so a fluid user experience is interrupted with bugginess especially with longer patterns and interaction use cases.
 
 
 
@@ -70,14 +77,14 @@ If this was a longer term project I would use better version control over git an
 
     Copyright Jon Reyes
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+        Licensed under the Apache License, Version 2.0 (the "License");
+	    you may not use this file except in compliance with the License.
+	        You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+		        http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+			    Unless required by applicable law or agreed to in writing, software
+			        distributed under the License is distributed on an "AS IS" BASIS,
+				    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+				        See the License for the specific language governing permissions and
+					    limitations under the License.
